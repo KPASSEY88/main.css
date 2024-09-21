@@ -1,1 +1,37 @@
-main.css > 
+/* 
+declaration block:
+
+selector{
+    property1: value1;
+    property2: value2;
+    property3: value3;
+
+*/
+
+body{
+
+    background-color: aqua;
+    color:antiquewhite;
+}
+
+nav{
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#meme-image{
+    margin-right: 200px;
+    width: 200px;
+}
+h1{
+    text-align: center;
+    
+}
